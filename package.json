@@ -14,6 +14,13 @@
   ],
   "author": "Kae",
   "license": "MIT",
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "chalk": "^5.4.1",
     "execa": "^8.0.1",
